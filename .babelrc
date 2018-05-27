@@ -1,6 +1,4 @@
 {
-    "presets":["@babel/preset-env"],
-    "plugins": [
-        "transform-async-to-generator","transform-regenerator"
-    ]
+  "presets": ["@babel/preset-env"],
+  "plugins": ["transform-async-to-generator", "transform-regenerator"]
 }
